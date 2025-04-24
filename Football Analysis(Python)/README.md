@@ -24,16 +24,13 @@ This project provides a comprehensive analysis of football match data using Pyth
 - 🧮 **Correlation Analysis**: Stats like possession, shots, and cards vs match outcomes
 - 🧠 **Advanced Metrics**: Using rolling averages and grouped statistics
 
-## 📁 File Structure
-
-- `Football_Data_Analysis_Portfolio_DeepPlus.ipynb`: The full analysis notebook
-
 ## 📌 Why This Project?
 
 This analysis was built as part of a personal data analytics portfolio to demonstrate:
 - Strong foundations in data analysis with Python
 - Effective storytelling through data visualization
 - Ability to extract strategic insights from sports datasets
+- And I just love football
 
 ---
 

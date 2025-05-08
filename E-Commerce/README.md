@@ -4,7 +4,7 @@ This project demonstrates the use of **SQL** for exploring, aggregating, and der
 
 ## 📂 File Included
 
-- `SQL.sql`: A script containing all queries used in the analysis
+- `ECommerce.sql`: A script containing all queries used in the analysis
 
 ## 📌 Topics Covered
 
